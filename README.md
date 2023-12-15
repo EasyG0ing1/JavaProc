@@ -15,7 +15,7 @@ with a non zero exit status.
 Getting Started
 ---------------
 
-To get started  either download the [jar](https://oss.sonatype.org/content/repositories/releases/org/buildobjects/jproc/2/jproc-2.jar) or
+To get started  either download the [jar](https://repo1.maven.org/maven2/com/simtechdata/JavaProc/1.0.0/JavaProc-1.0.0.jar) or
 if you are using maven add this snippet to your pom:
 
 ~~~ .xml
